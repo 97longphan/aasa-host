@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "12345ABCDE.com.one.oneid.UAT",
+        "paths": [ "/clip/*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "12345ABCDE.com.one.oneid.UAT.Clip"
+    ]
+  }
+}
